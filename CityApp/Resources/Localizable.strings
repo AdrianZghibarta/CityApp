@@ -1,0 +1,14 @@
+/* 
+  Strings.strings
+  TripAdvisor
+
+  Created by Adrian Zghibarta on 12/6/18.
+  Copyright © 2018 Adrian Zghibarta. All rights reserved.
+*/
+
+"error_title"="Oops!";
+"ok"="Ok";
+"csv_error"="CSV file cannot be processed";
+"cities"="Cities";
+"city_details"="City Details";
+"no_data"="No Data";
